@@ -31,3 +31,4 @@ class alash:
         self.box.fill((200, 200, 200))
 
         alash_count[self.name] += 1
+
