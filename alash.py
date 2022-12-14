@@ -1,6 +1,6 @@
 import random
 import os
-import game_config as gc
+import game_configurations as gc
 
 from pygame import image, transform
 
